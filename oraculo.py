@@ -38,7 +38,11 @@ def respuesta_oraculo(): #funcion para las respuestas que dara el oraculo
         "si",
         "no",
         "probablemente si",
-        "yo digo que no"
+        "yo digo que no",
+        "Le pregunte a mis huevos y me dijieron simon",
+        "Depende"
+        "Quien sabe",
+        "Solo mi creador/a podria responder eso"
     ]
 
     return random.choice(respuestas)
