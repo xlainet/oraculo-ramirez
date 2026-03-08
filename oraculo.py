@@ -1,8 +1,7 @@
 # Oráculo Ramírez
 # Programa de consola en Python que simula un oráculo interactivo.
 # Permite hacer preguntas, elegir entre dos opciones, ver historial,
-# ver fecha y hora actual y recordar la última pregunta u opción.
-# Autor: xlainet
+# ver fecha y hora actual y recordar la última pregunta u opción. 
 
 import random
 import datetime
@@ -86,7 +85,7 @@ def logo(): #funcion del logo ramirez
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
 
         ORACULO RAMIREZ
-        creador: xlainet
+        creadora: Valentina
 """)
 
 
