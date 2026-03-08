@@ -3,8 +3,6 @@
 Pequeño programa de terminal escrito en Python que funciona como un "oráculo".
 Permite hacer preguntas, elegir entre dos opciones y guarda un historial de las acciones usando un archivo JSON.
 
-Autora: Valentina
-
 ## Características
 
 - Hacer preguntas al oráculo y recibir una respuesta aleatoria
